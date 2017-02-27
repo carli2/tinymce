@@ -1,0 +1,22 @@
+{
+  "name": "tinymce",
+  "version": "4.5.4",
+  "description": "TinyMCE Editor",
+  "main": "js/tinymce/tinymce.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carli2/tinymce.git"
+  },
+  "keywords": [
+    "tinymce"
+  ],
+  "author": "Community",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/carli2/tinymce/issues"
+  },
+  "homepage": "https://github.com/carli2/tinymce#readme"
+}
